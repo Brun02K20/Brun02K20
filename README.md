@@ -35,7 +35,7 @@
 </a>
 <a href="bvirinni@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-bvirinni@gmail.com-blue?style=flat-square&logo=gmail" width="200" height="30"></a>  
 
-## Stats
+#### Stats
 <div style={{display: "flex"}}> 
   <img src="https://github-readme-stats.vercel.app/api?username=brun02k20&show_icons=true&theme=radical"></img>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brun02k20&layout=compact&langs_count=10&theme=radical"></img>
