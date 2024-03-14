@@ -16,7 +16,7 @@
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap)
   <br />
   ![Typescript](https://img.shields.io/badge/-Typescript-333333?style=flat&logo=typescript)
-  ![Node](https://img.shields.io/badge/-Node-333333?style=flat&logo=node)
+  ![Node](https://img.shields.io/badge/-Node-333333?style=flat&logo=nodejs)
   ![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=express)
   ![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=sql)
   
