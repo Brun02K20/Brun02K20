@@ -7,7 +7,7 @@
 
 ### Tecnologías
 <div style="width: 150px;">
-    <img src="https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript" alt="JavaScript" width="100" height="100">
+    <img src="https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript" alt="JavaScript" width="100" height="50">
 </div>
 
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
