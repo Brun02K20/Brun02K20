@@ -12,7 +12,7 @@
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![React](https://img.shields.io/badge/-ReactNative-333333?style=flat&logo=react)
   ![Astro](https://img.shields.io/badge/-Astro-333333?style=flat&logo=astro)
-  ![Tailwind](https://img.shields.io/badge/-Tailwind-333333?style=flat&logo=tailwind)
+  ![Tailwind](https://img.shields.io/badge/-Tailwind-333333?style=flat&logo=tailwindcss)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap)
   <br />
   ![Typescript](https://img.shields.io/badge/-Typescript-333333?style=flat&logo=typescript)
