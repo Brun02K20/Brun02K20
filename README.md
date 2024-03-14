@@ -21,6 +21,7 @@
   ![SQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=MySQL)
   ![Sequelize](https://img.shields.io/badge/-Sequelize-333333?style=flat&logo=sequelize)
   ![Next](https://img.shields.io/badge/-Next-333333?style=flat&logo=next.js)
+  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 
 <!--
 **Brun02K20/Brun02K20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
