@@ -36,7 +36,10 @@
 <a href="bvirinni@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-bvirinni@gmail.com-blue?style=flat-square&logo=gmail" width="200" height="30"></a>  
 
 ## Stats
-<img src="https://github-readme-stats.vercel.app/api?username=brun02k20&show_icons=true&theme=radical"></img>
+<div style={{display: "flex"}}> 
+  <img src="https://github-readme-stats.vercel.app/api?username=brun02k20&show_icons=true&theme=radical"></img>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brun02k20&layout=compact&langs_count=10&theme=radical"></img>
+</div>
 
 <!--
 **Brun02K20/Brun02K20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
