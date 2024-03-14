@@ -6,14 +6,16 @@
 - Apasionado por la programación web y la ciencia de datos.
 
 ### Tecnologías
-<img src="https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript" alt="JavaScript" width="100" height="30">
-<img src="https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5" alt="HTML5" width="100" height="30">
-<img src="https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6" alt="CSS" width="100" height="30">
-<img src="https://img.shields.io/badge/-React-333333?style=flat&logo=react" alt="React" width="100" height="30">
-<img src="https://img.shields.io/badge/-ReactNative-333333?style=flat&logo=react" alt="ReactNative" width="100" height="30">
-<img src="https://img.shields.io/badge/-Astro-333333?style=flat&logo=astro" alt="Astro" width="100" height="30">
-<img src="https://img.shields.io/badge/-Tailwind-333333?style=flat&logo=tailwindcss" alt="Tailwind" width="100" height="30">
-<img src="https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap" alt="Bootstrap" width="100" height="30">
+<div style={{display: "flex}}>
+  <img src="https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript" alt="JavaScript" width="100" height="30">
+  <img src="https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5" alt="HTML5" width="100" height="30">
+  <img src="https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6" alt="CSS" width="100" height="30">
+  <img src="https://img.shields.io/badge/-React-333333?style=flat&logo=react" alt="React" width="100" height="30">
+  <img src="https://img.shields.io/badge/-ReactNative-333333?style=flat&logo=react" alt="ReactNative" width="100" height="30">
+  <img src="https://img.shields.io/badge/-Astro-333333?style=flat&logo=astro" alt="Astro" width="100" height="30">
+  <img src="https://img.shields.io/badge/-Tailwind-333333?style=flat&logo=tailwindcss" alt="Tailwind" width="100" height="30">
+  <img src="https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap" alt="Bootstrap" width="100" height="30">
+</div>
 
 <br />
 <img src="https://img.shields.io/badge/-Typescript-333333?style=flat&logo=typescript" alt="Typescript" width="100" height="30">
