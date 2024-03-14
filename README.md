@@ -4,6 +4,7 @@
 ### About
 - Tengo 20 años, soy de Córdoba, Argentina.
 - Apasionado por la programación web y la ciencia de datos.
+- Actualmentte cursando 4to año de Ingeniería en Sistem,as en la UTN - FRC
 
 ### Tecnologías
 <div style={{display: "flex}}>
