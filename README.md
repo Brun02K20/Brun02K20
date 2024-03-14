@@ -18,7 +18,7 @@
   ![Typescript](https://img.shields.io/badge/-Typescript-333333?style=flat&logo=typescript)
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   ![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=express)
-  ![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=SQL)
+  ![SQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=MySQL)
   ![Sequelize](https://img.shields.io/badge/-Sequelize-333333?style=flat&logo=sequelize)
   
 
