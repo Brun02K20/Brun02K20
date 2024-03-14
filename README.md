@@ -31,9 +31,9 @@
 
 ### Contáctame
 <a href="https://www.linkedin.com/in/bruno-laszlo-virinni-663332268/">
-  <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Bruno%20Virinni-blue?style=flat-square&logo=linkedin" width="150" height="30">
+  <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Bruno%20Virinni-blue?style=flat-square&logo=linkedin" width="200" height="30">
 </a>
-<a href="bvirinni@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-bvirinni@gmail.com-blue?style=flat-square&logo=gmail" width="150" height="30"></a>  
+<a href="bvirinni@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-bvirinni@gmail.com-blue?style=flat-square&logo=gmail" width="200" height="30"></a>  
 <!--
 **Brun02K20/Brun02K20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
