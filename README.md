@@ -10,7 +10,7 @@
 - Actualmente cursando 4to año de Ingeniería en Sistemas en la UTN - FRC.
 
 ## <picture><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"></picture> Skills
-### Frontend
+### :star: Frontend
 <div style={{display: "flex}}>
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" width="100" height="30">
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" width="100" height="30">
@@ -27,7 +27,7 @@
 
 <br />
 
-### Backend
+### :star: Backend
 <div style={{display: "flex}}>
   <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="Typescript" width="100" height="30">
   <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" width="100" height="30">
@@ -41,7 +41,7 @@
 
 <br />
 
-### DataBases
+### :star: DataBases
 <div style={{display: "flex}}>
   <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" width="100" height="30">
   <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgresSQL" width="100" height="30">
@@ -52,7 +52,7 @@
 
 <br />
 
-### Tools
+### :star: Tools
 <div style={{display: "flex}}>
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode" width="100" height="30">
   <img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJIDEA" width="100" height="30">
