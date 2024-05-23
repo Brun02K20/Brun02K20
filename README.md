@@ -8,7 +8,7 @@
 - Tengo 20 años, soy de Córdoba, Argentina.
 - Apasionado por la programación web y la ciencia de datos.
 - Actualmente cursando 4to año de Ingeniería en Sistemas en la UTN - FRC.
-- Descarga mi CV <a href="https://drive.google.com/file/d/1_YVC4Zp9F5dbvmorbm_JVE92PDFEOdzc/view" download="CV-Virinni-Bruno">aquí</a>
+- Consulta mi CV <a href="https://drive.google.com/file/d/1_YVC4Zp9F5dbvmorbm_JVE92PDFEOdzc/view" download="CV-Virinni-Bruno">aquí</a>
 
 ## <picture><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"></picture> Skills
 ### :star: Frontend
