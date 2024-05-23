@@ -4,7 +4,7 @@
 </p>
 
 
-### <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> About me
+## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> About me
 - Tengo 20 años, soy de Córdoba, Argentina.
 - Apasionado por la programación web y la ciencia de datos.
 - Actualmente cursando 4to año de Ingeniería en Sistemas en la UTN - FRC.
