@@ -65,7 +65,7 @@
   <img src="https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white" alt="Swagger" width="100" height="30">
 </div>
 
-## <picture><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"></picture> My GH Stats
+## <picture><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"></picture> My GH Stats
 <div style={{display: "flex"}}> 
   <img src="https://github-readme-stats.vercel.app/api?username=brun02k20&show_icons=true&theme=radical"></img>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brun02k20&layout=compact&langs_count=10&theme=radical"></img>
