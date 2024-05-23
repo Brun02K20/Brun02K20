@@ -48,6 +48,17 @@
   <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white" alt="Sequelize" width="100" height="30">
 </div>
 
+<br />
+
+### Tools
+<div style={{display: "flex}}>
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode" width="100" height="30">
+  <img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJIDEA" width="100" height="30">
+  <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" width="100" height="30">
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" width="100" height="30">
+  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" width="100" height="30">
+</div>
+
 ## <picture><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"></picture> My GH Stats
 <div style={{display: "flex"}}> 
   <img src="https://github-readme-stats.vercel.app/api?username=brun02k20&show_icons=true&theme=radical"></img>
