@@ -1,10 +1,10 @@
-<h1 align="center">Hi, I'm Bruno Virinni <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> :rocket:</h1>
+<h1 align="center">Hola, soy Bruno Virinni <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> :rocket:</h1>
 <p align="center">
   <a href="https://github.com/martinxr250/martinxr250"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Full-Stack+Developer;Analista+Universitario+de+Sistemas;Cursando:+Ingeniería+en+Sistemas;Más+de+2+años+de+exp."></a>
 </p>
 
 
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> About me
+## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> Sobre mí
 - Tengo 20 años, soy de Córdoba, Argentina.
 - Apasionado por la programación web y la ciencia de datos.
 - Actualmente cursando 4to año de Ingeniería en Sistemas en la UTN - FRC.
@@ -65,13 +65,13 @@
   <img src="https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white" alt="Swagger" width="100" height="30">
 </div>
 
-## <picture><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"></picture> My GH Stats
+## <picture><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"></picture> Stats
 <div style={{display: "flex"}}> 
   <img src="https://github-readme-stats.vercel.app/api?username=brun02k20&show_icons=true&theme=radical"></img>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brun02k20&layout=compact&langs_count=10&theme=radical"></img>
 </div>
 
-## <picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="50"></picture> Contact me
+## <picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="50"></picture> Contáctame
 <a href="https://www.linkedin.com/in/bruno-laszlo-virinni/" target="_blank">
 <img src="https://img.shields.io/badge/linkedin:  Virinni Bruno-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
