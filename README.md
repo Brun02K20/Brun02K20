@@ -14,25 +14,30 @@
   <img src="https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript" alt="JavaScript" width="100" height="30">
   <img src="https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5" alt="HTML5" width="100" height="30">
   <img src="https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6" alt="CSS" width="100" height="30">
-  <img src="https://img.shields.io/badge/-React-333333?style=flat&logo=react" alt="React" width="100" height="30">
-  <img src="https://img.shields.io/badge/-ReactNative-333333?style=flat&logo=react" alt="ReactNative" width="100" height="30">
-  <img src="https://img.shields.io/badge/-Astro-333333?style=flat&logo=astro" alt="Astro" width="100" height="30">
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" width="100" height="30">
+  <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="ReactNative" width="100" height="30">
+  <img src="https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white" alt="Astro" width="100" height="30">
   <img src="https://img.shields.io/badge/-Tailwind-333333?style=flat&logo=tailwindcss" alt="Tailwind" width="100" height="30">
-  <img src="https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap" alt="Bootstrap" width="100" height="30">
+  <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" width="100" height="30">
+  <img src="https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white" alt="ChartJS" width="100" height="30">
+  <img src="https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37" alt="Expo" width="100" height="30">
+  <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white" alt="SASS" width="100" height="30">
+  
 </div>
 
 <br />
 <div style={{display: "flex}}>
   <img src="https://img.shields.io/badge/-Typescript-333333?style=flat&logo=typescript" alt="Typescript" width="100" height="30">
-  <img src="https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js" alt="Node.js" width="100" height="30">
-  <img src="https://img.shields.io/badge/-Express-333333?style=flat&logo=express" alt="Express" width="100" height="30">
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" width="100" height="30">
+  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express" width="100" height="30">
   <img src="https://img.shields.io/badge/-Sequelize-333333?style=flat&logo=sequelize" alt="Sequelize" width="100" height="30">
-  <img src="https://img.shields.io/badge/-Next-333333?style=flat&logo=next.js" alt="Next" width="100" height="30">
+  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next" width="100" height="30">
   <img src="https://img.shields.io/badge/-Python-333333?style=flat&logo=python" alt="Python" width="100" height="30">
   <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" width="100" height="30">
   <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgresSQL" width="100" height="30">
   <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" alt="PostgresSQL" width="100" height="30">
-  <img src="https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34" alt="MySQL" width="100" height="30">
+  <img src="https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34" alt="Firebase" width="100" height="30">
+  <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens" alt="JWT" width="100" height="30">
   
 </div>
 
