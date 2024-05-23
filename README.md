@@ -9,7 +9,7 @@
 - Apasionado por la programación web y la ciencia de datos.
 - Actualmente cursando 4to año de Ingeniería en Sistemas en la UTN - FRC.
 
-### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> Skills
+### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="50"> Skills
 <div style={{display: "flex}}>
   <img src="https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript" alt="JavaScript" width="100" height="30">
   <img src="https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5" alt="HTML5" width="100" height="30">
@@ -32,13 +32,13 @@
   <img src="https://img.shields.io/badge/-Python-333333?style=flat&logo=python" alt="Python" width="100" height="30">
 </div>
 
-#### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> Stats
+#### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="50"> Stats
 <div style={{display: "flex"}}> 
   <img src="https://github-readme-stats.vercel.app/api?username=brun02k20&show_icons=true&theme=radical"></img>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brun02k20&layout=compact&langs_count=10&theme=radical"></img>
 </div>
 
-### <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80"> Contact me
+### <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="50"> Contact me
 <a href="https://www.linkedin.com/in/bruno-laszlo-virinni-663332268/">
   <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Bruno%20Virinni-blue?style=flat-square&logo=linkedin" width="200" height="30">
 </a>
