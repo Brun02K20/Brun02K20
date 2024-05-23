@@ -20,6 +20,7 @@
   <img src="https://img.shields.io/badge/-Tailwind-333333?style=flat&logo=tailwindcss" alt="Tailwind" width="100" height="30">
   <img src="https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap" alt="Bootstrap" width="100" height="30">
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 <br />
 <div style={{display: "flex}}>
