@@ -32,7 +32,7 @@
   <img src="https://img.shields.io/badge/-Python-333333?style=flat&logo=python" alt="Python" width="100" height="30">
 </div>
 
-#### <picture><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="50"></picture> Stats
+### <picture><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="50"></picture> Stats
 <div style={{display: "flex"}}> 
   <img src="https://github-readme-stats.vercel.app/api?username=brun02k20&show_icons=true&theme=radical"></img>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brun02k20&layout=compact&langs_count=10&theme=radical"></img>
