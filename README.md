@@ -26,7 +26,6 @@
   <img src="https://img.shields.io/badge/-Typescript-333333?style=flat&logo=typescript" alt="Typescript" width="100" height="30">
   <img src="https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js" alt="Node.js" width="100" height="30">
   <img src="https://img.shields.io/badge/-Express-333333?style=flat&logo=express" alt="Express" width="100" height="30">
-  ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
   <img src="https://img.shields.io/badge/-Sequelize-333333?style=flat&logo=sequelize" alt="Sequelize" width="100" height="30">
   <img src="https://img.shields.io/badge/-Next-333333?style=flat&logo=next.js" alt="Next" width="100" height="30">
   <img src="https://img.shields.io/badge/-Python-333333?style=flat&logo=python" alt="Python" width="100" height="30">
