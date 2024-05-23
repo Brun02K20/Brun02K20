@@ -10,7 +10,6 @@
 - Actualmente cursando 4to año de Ingeniería en Sistemas en la UTN - FRC.
 
 ## <picture><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"></picture> Skills
-<br></br>
 ### Frontend
 <div style={{display: "flex}}>
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" width="100" height="30">
