@@ -10,7 +10,7 @@
 - Actualmente cursando 4to año de Ingeniería en Sistemas en la UTN - FRC.
 
 ## <picture><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"></picture> Skills
-<div style={{display: "flex}}>
+
   <img src="https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript" alt="JavaScript" width="100" height="30">
   <img src="https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5" alt="HTML5" width="100" height="30">
   <img src="https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6" alt="CSS" width="100" height="30">
@@ -19,7 +19,7 @@
   <img src="https://img.shields.io/badge/-Astro-333333?style=flat&logo=astro" alt="Astro" width="100" height="30">
   <img src="https://img.shields.io/badge/-Tailwind-333333?style=flat&logo=tailwindcss" alt="Tailwind" width="100" height="30">
   <img src="https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap" alt="Bootstrap" width="100" height="30">
-</div>
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 <br />
 <div style={{display: "flex}}>
