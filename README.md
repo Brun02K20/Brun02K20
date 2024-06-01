@@ -81,7 +81,7 @@
 <img src="https://img.shields.io/badge/gmail:  bvirinni@gmail.com-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
 </a>
 
-## Visitor Counter
+## 👀 Visitor Counter
 <p align="center"><img src="https://profile-counter.glitch.me/{Brun02K20}/count.svg" alt="dileo24 :: Contador de Visitantes" /></p>
 
 <!--
