@@ -84,6 +84,12 @@
 ## 👀 Visitor Counter
 <p align="center"><img src="https://profile-counter.glitch.me/{Brun02K20}/count.svg" alt="dileo24 :: Contador de Visitantes" /></p>
 
+## 🐍
+<div align="center">
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
+       alt="snake" /></a>
+</div>
+
 <!--
 **Brun02K20/Brun02K20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
