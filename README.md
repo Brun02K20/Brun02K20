@@ -9,7 +9,7 @@
 - Apasionado por la programación web y la ciencia de datos.
 - Actualmente cursando 4to año de Ingeniería en Sistemas en la UTN - FRC.
 - +2 años de experiencia como fullstack developer
-- [Consulta mi CV aquí](https://drive.google.com/uc?export=download&id=1WzlmIPRu0VudfEeDVKOkpqJa7gmcF5Sm)
+- Consulta mi CV [aquí](https://drive.google.com/uc?export=download&id=1WzlmIPRu0VudfEeDVKOkpqJa7gmcF5Sm)
 
 ## <picture><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"></picture> Skills
 ### :star: Frontend
