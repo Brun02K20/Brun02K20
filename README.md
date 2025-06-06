@@ -1,11 +1,11 @@
 <h1 align="center">Hola, soy Bruno Virinni <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> :rocket:</h1>
 <p align="center">
-  <a href="https://github.com/martinxr250/martinxr250"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Full-Stack+Developer;Analista+Universitario+de+Sistemas;Cursando:+Ingeniería+en+Sistemas;Más+de+2+años+de+exp."></a>
+  <a href="https://github.com/martinxr250/martinxr250"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Full-Stack+Developer;Analista+Universitario+de+Sistemas;Cursando:+Ingeniería+en+Sistemas;Más+de+3+años+de+exp."></a>
 </p>
 
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> Sobre mí
-- Tengo 21 años, soy de Córdoba, Argentina.
+- Tengo 22 años, soy de Córdoba, Argentina.
 - Apasionado por la programación web y la ciencia de datos.
 - Actualmente cursando 5to año de Ingeniería en Sistemas en la UTN - FRC.
 - +3 años de experiencia como fullstack developer
