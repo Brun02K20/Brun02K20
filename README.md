@@ -69,14 +69,20 @@
 
 ## <picture><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"></picture> Stats
 <p align="center">
+  <!-- Fila 1: Estadísticas generales y lenguajes -->
   <img src="https://github-readme-stats.vercel.app/api?username=brun02k20&show_icons=true&theme=radical" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brun02k20&layout=compact&langs_count=10&theme=radical" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=brun02k20&theme=radical" height="150"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=brun02k20&theme=radical" height="170"/>
-  <img src="https://github-profile-trophy.vercel.app/?username=brun02k20&theme=tokyonight" height="170"/>
+  <!-- Fila 2: Racha y detalles de perfil -->
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=brun02k20&theme=radical" height="150"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=brun02k20&theme=radical" height="150"/>
+</p>
+
+<p align="center">
+  <!-- Fila 3: Trofeos ocupando todo el ancho -->
+  <img src="https://github-profile-trophy.vercel.app/?username=brun02k20&theme=tokyonight&margin-w=10&margin-h=10" />
 </p>
 
 ## <picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="50"></picture> Contáctame
