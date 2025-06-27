@@ -68,13 +68,16 @@
 </div>
 
 ## <picture><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"></picture> Stats
-<div style={{display: "flex"}}> 
-  <img src="https://github-readme-stats.vercel.app/api?username=brun02k20&show_icons=true&theme=radical"></img>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brun02k20&layout=compact&langs_count=10&theme=radical"></img>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=brun02k20&theme=radical"/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=brun02k20&show_icons=true&theme=radical" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brun02k20&layout=compact&langs_count=10&theme=radical" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=brun02k20&theme=radical" height="150"/>
+</p>
+
+<p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=brun02k20&theme=radical" height="170"/>
-  <img src="https://github-profile-trophy.vercel.app/?username=brun02k20&theme=tokyonight"/>
-</div>
+  <img src="https://github-profile-trophy.vercel.app/?username=brun02k20&theme=tokyonight" height="170"/>
+</p>
 
 ## <picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="50"></picture> Contáctame
 <a href="https://www.linkedin.com/in/bruno-laszlo-virinni/" target="_blank">
