@@ -71,6 +71,9 @@
 <div style={{display: "flex"}}> 
   <img src="https://github-readme-stats.vercel.app/api?username=brun02k20&show_icons=true&theme=radical"></img>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brun02k20&layout=compact&langs_count=10&theme=radical"></img>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=brun02k20&theme=radical"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=brun02k20&theme=radical" height="170"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=brun02k20&theme=tokyonight"/>
 </div>
 
 ## <picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="50"></picture> Contáctame
