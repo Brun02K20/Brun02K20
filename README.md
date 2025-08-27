@@ -85,7 +85,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=brun02k20&theme=tokyonight&margin-w=10&margin-h=10" />
 </p>
 
-## <picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="50"></picture> Cojntact me
+## <picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="50"></picture> Contact me
 <a href="https://www.linkedin.com/in/bruno-laszlo-virinni/" target="_blank">
 <img src="https://img.shields.io/badge/linkedin:  Virinni Bruno-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
