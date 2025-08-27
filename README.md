@@ -29,6 +29,7 @@
 
 <p></p>
 
+- I also have another project I started with friends, called 'Codeando Web,' which focuses on developing management, inventory, and catalog software for small and medium-sized businesses (SMBs).
 <p align="center">
   <a href="https://www.instagram.com/codeandoweb">
     <img src="https://img.shields.io/badge/CodeandoWeb-we%20help%20to%20your%20business-black?style=flat&color=black" alt="CodeandoWeb">
