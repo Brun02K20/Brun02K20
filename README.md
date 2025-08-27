@@ -94,7 +94,9 @@
 </a>
 
 ## 👀 Visitor Counter
-<p align="center">[Visitor Count](https://profile-counter.glitch.me/{Brun02K20}/count.svg)</p>
+<p align="center">
+  <img src="https://profile-counter.glitch.me/Brun02K20/count.svg" alt="Visitor Count">
+</p>
 
 
 <!--
