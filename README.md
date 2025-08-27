@@ -13,6 +13,12 @@
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> Ckeck out my projects [here](https://brunovirinni.vercel.app)
 
+- Another project I have is a start-up called SkarIT, a software consulting firm that provides digital and marketing solutions to clients from multiple industries.
+
+<p align="center">
+  ![Static Badge](https://img.shields.io/badge/SkarIT-we%20create%20real%20digital%20solutions-black?style=flat&color=black&link=https%3A%2F%2Fskarit.com.ar)
+</p>
+
 
 ## <picture><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"></picture> Skills
 ### :star: Frontend
