@@ -11,8 +11,9 @@
 - 3+ years of experience as a fullstack developer.
 - Check out my CV [here](https://drive.google.com/uc?export=download&id=1WzlmIPRu0VudfEeDVKOkpqJa7gmcF5Sm)
 
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> Ckeck out my projects [here](https://brunovirinni.vercel.app)
+## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture>Projects
 
+-  Ckeck out my projects [here](https://brunovirinni.vercel.app)
 - Another project I have is a start-up called SkarIT, a software consulting firm that provides digital and marketing solutions to clients from multiple industries.
 
 <p align="center">
@@ -24,6 +25,19 @@
 
 <p align="center">
   <a href="https://skarit.com.ar">🌐 skarit.com.ar</a>
+</p>
+
+<p></p>
+
+<p align="center">
+  <a href="https://www.instagram.com/codeandoweb">
+    <img src="https://img.shields.io/badge/CodeandoWeb-we%20help%20to%20your%20business-black?style=flat&color=black" alt="CodeandoWeb">
+  </a>
+</p>
+
+
+<p align="center">
+  <a href="https://www.instagram.com/codeandoweb">🌐 https://www.instagram.com/codeandoweb</a>
 </p>
 
 
