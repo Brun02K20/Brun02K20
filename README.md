@@ -16,9 +16,11 @@
 - Another project I have is a start-up called SkarIT, a software consulting firm that provides digital and marketing solutions to clients from multiple industries.
 
 <p align="center">
-  [![Static Badge](https://img.shields.io/badge/SkarIT-we%20create%20real%20digital%20solutions-black?style=flat&color=black)](https://skarit.com.ar)
-
+  <a href="https://skarit.com.ar">
+    <img src="https://img.shields.io/badge/SkarIT-we%20create%20real%20digital%20solutions-black?style=flat&color=black" alt="SkarIT">
+  </a>
 </p>
+
 
 
 ## <picture><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"></picture> Skills
