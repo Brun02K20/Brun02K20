@@ -9,7 +9,7 @@
 - Passionate about web development.
 - Currently in my 5th year of Systems Engineering at UTN - FRC.
 - 4+ years of experience as a fullstack developer.
-- Check out my CV [here](https://drive.google.com/uc?export=download&id=1WzlmIPRu0VudfEeDVKOkpqJa7gmcF5Sm)
+- Check out my CV [here](https://drive.google.com/file/d/1JjdhQy8Cz5zV3inA5M44LjIomg3HZ11W/view?usp=sharing)
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture>Projects
 
