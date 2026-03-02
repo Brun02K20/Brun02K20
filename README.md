@@ -32,10 +32,10 @@
 ### :star: Frontend
 <div style={{display: "flex}}>
   <img src="https://img.shields.io/badge/React-black?logo=react&logoColor=%2361DAFB" alt="React" width="100" height="30">
-  <img src="https://img.shields.io/badge/React-black?logo=react&logoColor=%2361DAFB" alt="ReactNative" width="140" height="50">
+  <img src="https://img.shields.io/badge/React_Native-black?logo=react&logoColor=%2361DAFB" alt="ReactNative" width="100" height="30">
   <img src="https://img.shields.io/badge/Astro-black?logo=astro&logoColor=%23BC52EE" alt="Astro" width="100" height="30">
-  <img src="https://img.shields.io/badge/TailwindCSS-black?logo=tailwindcss&logoColor=%2306B6D4" alt="Tailwind" width="120" height="40">
-  <img src="https://img.shields.io/badge/Bootstrap-black?logo=bootstrap&logoColor=%237952B3" alt="Bootstrap" width="120" height="40">
+  <img src="https://img.shields.io/badge/TailwindCSS-black?logo=tailwindcss&logoColor=%2306B6D4" alt="Tailwind" width="100" height="30">
+  <img src="https://img.shields.io/badge/Bootstrap-black?logo=bootstrap&logoColor=%237952B3" alt="Bootstrap" width="100" height="30">
   <img src="https://img.shields.io/badge/chartjs-black?logo=chartdotjs&logoColor=%23FF6384" alt="ChartJS" width="100" height="30">
   <img src="https://img.shields.io/badge/expo-white?logo=expo&logoColor=%231C2024" alt="Expo" width="100" height="30">
   <img src="https://img.shields.io/badge/Html5-black?logo=html5&logoColor=%23E34F26" alt="HTML5" width="100" height="30">
@@ -48,9 +48,9 @@
 
 ### :star: Backend
 <div style={{display: "flex}}>
-  <img src="https://img.shields.io/badge/Typescript-black?logo=typescript&logoColor=%233178C6" alt="Typescript" width="140" height="50">
+  <img src="https://img.shields.io/badge/Typescript-black?logo=typescript&logoColor=%233178C6" alt="Typescript" width="100" height="30">
   <img src="https://img.shields.io/badge/Nodejs-black?logo=nodedotjs&logoColor=%235FA04E" alt="Node.js" width="100" height="30">
-  <img src="https://img.shields.io/badge/Expressjs-white?logo=express&logoColor=%23000000" alt="Express" width="140" height="50">
+  <img src="https://img.shields.io/badge/Expressjs-white?logo=express&logoColor=%23000000" alt="Express" width="100" height="30">
   <img src="https://img.shields.io/badge/JWT-white?logo=jsonwebtokens&logoColor=%23000000" alt="JWT" width="100" height="30">
   <img src="https://img.shields.io/badge/nestjs-red?logo=nestjs" alt="Nest" width="100" height="30">
   <img src="https://img.shields.io/badge/python-black?logo=python&logoColor=%233776AB" alt="Python" width="100" height="30">
