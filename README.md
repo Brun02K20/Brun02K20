@@ -6,30 +6,16 @@
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> About me
 - I’m 22 years old, from Córdoba, Argentina.
-- Passionate about web development and data science.
+- Passionate about web development.
 - Currently in my 5th year of Systems Engineering at UTN - FRC.
-- 3+ years of experience as a fullstack developer.
+- 4+ years of experience as a fullstack developer.
 - Check out my CV [here](https://drive.google.com/uc?export=download&id=1WzlmIPRu0VudfEeDVKOkpqJa7gmcF5Sm)
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture>Projects
 
 -  Ckeck out my projects [here](https://brunovirinni.vercel.app)
-- Another project I have is a start-up called SkarIT, a software consulting firm that provides digital and marketing solutions to clients from multiple industries.
 
-<p align="center">
-  <a href="https://skarit.com.ar">
-    <img src="https://img.shields.io/badge/SkarIT-we%20create%20real%20digital%20solutions-black?style=flat&color=black" alt="SkarIT">
-  </a>
-</p>
-
-
-<p align="center">
-  <a href="https://skarit.com.ar">🌐 skarit.com.ar</a>
-</p>
-
-<p></p>
-
-- I also have another project I started with friends, called 'Codeando Web,' which focuses on developing management, inventory, and catalog software for small and medium-sized businesses (SMBs).
+- I have a project that started with friends, called 'Codeando Web,' which focuses on developing management, inventory, and catalog software for small and medium-sized businesses (SMBs).
 <p align="center">
   <a href="https://www.instagram.com/codeandoweb">
     <img src="https://img.shields.io/badge/CodeandoWeb-we%20help%20to%20your%20business-black?style=flat&color=black" alt="CodeandoWeb">
