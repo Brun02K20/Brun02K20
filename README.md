@@ -31,75 +31,81 @@
 ## :computer: Skills
 ### :star: Frontend
 <div style={{display: "flex}}>
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" width="100" height="30">
-  <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="ReactNative" width="140" height="50">
-  <img src="https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white" alt="Astro" width="100" height="30">
-  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind" width="120" height="40">
-  <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" width="120" height="40">
-  <img src="https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white" alt="ChartJS" width="100" height="30">
-  <img src="https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37" alt="Expo" width="100" height="30">
-  <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white" alt="SASS" width="100" height="30">
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" width="100" height="30">
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" width="100" height="30">
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" width="100" height="30">
-  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next" width="100" height="30">
+  <img src="https://img.shields.io/badge/React-black?logo=react&logoColor=%2361DAFB" alt="React" width="100" height="30">
+  <img src="https://img.shields.io/badge/React-black?logo=react&logoColor=%2361DAFB" alt="ReactNative" width="140" height="50">
+  <img src="https://img.shields.io/badge/Astro-black?logo=astro&logoColor=%23BC52EE" alt="Astro" width="100" height="30">
+  <img src="https://img.shields.io/badge/TailwindCSS-black?logo=tailwindcss&logoColor=%2306B6D4" alt="Tailwind" width="120" height="40">
+  <img src="https://img.shields.io/badge/Bootstrap-black?logo=bootstrap&logoColor=%237952B3" alt="Bootstrap" width="120" height="40">
+  <img src="https://img.shields.io/badge/chartjs-black?logo=chartdotjs&logoColor=%23FF6384" alt="ChartJS" width="100" height="30">
+  <img src="https://img.shields.io/badge/expo-white?logo=expo&logoColor=%231C2024" alt="Expo" width="100" height="30">
+  <img src="https://img.shields.io/badge/Html5-black?logo=html5&logoColor=%23E34F26" alt="HTML5" width="100" height="30">
+  <img src="https://img.shields.io/badge/Css-white?logo=css&logoColor=%23663399" alt="CSS" width="100" height="30">
+  <img src="https://img.shields.io/badge/Javascript-black?logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" width="100" height="30">
+  <img src="https://img.shields.io/badge/Next-white?logo=nextdotjs&logoColor=%23000000" alt="Next" width="100" height="30">
 </div>
 
 <br />
 
 ### :star: Backend
 <div style={{display: "flex}}>
-  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="Typescript" width="140" height="50">
-  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" width="100" height="30">
-  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express" width="140" height="50">
-  <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens" alt="JWT" width="100" height="30">
-  <img src="https://img.shields.io/badge/nestjs-red?logo=nestjs" alt="Next" width="100" height="30">
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" width="100" height="30">
-  <img src="https://img.shields.io/badge/FastAPI-green?logo=fastapi" alt="Spring" width="100" height="30">
+  <img src="https://img.shields.io/badge/Typescript-black?logo=typescript&logoColor=%233178C6" alt="Typescript" width="140" height="50">
+  <img src="https://img.shields.io/badge/Nodejs-black?logo=nodedotjs&logoColor=%235FA04E" alt="Node.js" width="100" height="30">
+  <img src="https://img.shields.io/badge/Expressjs-white?logo=express&logoColor=%23000000" alt="Express" width="140" height="50">
+  <img src="https://img.shields.io/badge/JWT-white?logo=jsonwebtokens&logoColor=%23000000" alt="JWT" width="100" height="30">
+  <img src="https://img.shields.io/badge/nestjs-red?logo=nestjs" alt="Nest" width="100" height="30">
+  <img src="https://img.shields.io/badge/python-black?logo=python&logoColor=%233776AB" alt="Python" width="100" height="30">
+  <img src="https://img.shields.io/badge/FastAPI-green?logo=fastapi" alt="FastAPI" width="100" height="30">
 </div>
 
 <br />
 
 ### :star: DataBases
 <div style={{display: "flex}}>
-  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" width="100" height="30">
-  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgresSQL" width="100" height="30">
-  <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" width="100" height="30">
-  <img src="https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34" alt="Firebase" width="100" height="30">
-  <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white" alt="Sequelize" width="100" height="30">
+  <img src="https://img.shields.io/badge/mysql-white?logo=mysql&logoColor=%234479A1" alt="MySQL" width="100" height="30">
+  <img src="https://img.shields.io/badge/postgresql-white?logo=postgresql&logoColor=%234169E1" alt="PostgresSQL" width="100" height="30">
+  <img src="https://img.shields.io/badge/sqlite-white?logo=sqlite&logoColor=%23003B57" alt="SQLite" width="100" height="30">
+  <img src="https://img.shields.io/badge/MSSQLServer-red" alt="MSSQLServer" width="100" height="30">
+  <img src="https://img.shields.io/badge/sequelize-black?logo=sequelize&logoColor=%2352B0E7" alt="Sequelize" width="100" height="30">
 </div>
 
 <br />
 
 ### :star: Tools
 <div style={{display: "flex}}>
+  <img src="https://img.shields.io/badge/git-black?logo=git&logoColor=%23F05032" alt="Git" width="100" height="30">
+  <img src="https://img.shields.io/badge/github-white?logo=github&logoColor=%23181717" alt="GitHub" width="100" height="30">
+  <img src="https://img.shields.io/badge/Gitlab-black?logo=gitlab&logoColor=%23FC6D26" alt="GitLab" width="100" height="30">
+  <img src="https://img.shields.io/badge/Copilot-black?logo=githubcopilot&logoColor=white" alt="Copilot" width="100" height="30">
+  <img src="https://img.shields.io/badge/Claude-black?logo=claude&logoColor=%23D97757" alt="ClaudeAI" width="100" height="30">
+  <img src="https://img.shields.io/badge/postman-black?logo=postman&logoColor=%23FF6C37" alt="Postman" width="100" height="30">
+  <img src="https://img.shields.io/badge/swagger-black?logo=swagger&logoColor=%2385EA2D" alt="Swagger" width="100" height="30">
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode" width="100" height="30">
-  <img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJIDEA" width="100" height="30">
-  <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" width="100" height="30">
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" width="100" height="30">
-  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" width="100" height="30">
-  <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" width="100" height="30">
-  <img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" alt="npm" width="100" height="30">
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" width="100" height="30">
-  <img src="https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white" alt="Swagger" width="100" height="30">
+  <img src="https://img.shields.io/badge/PyCharm-green?logo=pycharm&logoColor=black" alt="PyCharm" width="100" height="30">
+  <img src="https://img.shields.io/badge/vite-white?logo=vite&logoColor=%239135FF" alt="Vite" width="100" height="30">
+</div>
+
+<br />
+
+### :star: Cloud & DevOps
+<div style={{display: "flex}}>
+  <img src="https://img.shields.io/badge/vercel-white?logo=vercel&logoColor=%23000000" alt="Vercel" width="100" height="30">
+  <img src="https://img.shields.io/badge/docker-black?logo=docker&logoColor=%232496ED" alt="Docker" width="100" height="30">
+  <img src="https://img.shields.io/badge/linux-black?logo=linux&logoColor=%23FCC624" alt="Linux" width="100" height="30">
+  <img src="https://img.shields.io/badge/pm2-white?logo=pm2&logoColor=%232B037A" alt="PM2" width="100" height="30">
+  <img src="https://img.shields.io/badge/supabase-black?logo=supabase&logoColor=%233FCF8E" alt="Supabase" width="100" height="30">
+  <img src="https://img.shields.io/badge/firebase-black?logo=firebase&logoColor=%23DD2C00" alt="Firebase" width="100" height="30">
 </div>
 
 ## <picture><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"></picture> Stats
 <p align="center">
   <!-- Fila 1: Estadísticas generales y lenguajes -->
-  <img src="https://github-readme-stats.vercel.app/api?username=brun02k20&show_icons=true&theme=radical" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brun02k20&layout=compact&langs_count=10&theme=radical" height="150" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=brun02k20&show_icons=true&theme=radical" height="150" />
 </p>
 
 <p align="center">
   <!-- Fila 2: Racha y detalles de perfil -->
   <img src="https://github-readme-streak-stats.herokuapp.com?user=brun02k20&theme=radical" height="150"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=brun02k20&theme=radical" height="150"/>
-</p>
-
-<p align="center">
-  <!-- Fila 3: Trofeos ocupando todo el ancho -->
-  <img src="https://github-profile-trophy.vercel.app/?username=brun02k20&theme=tokyonight&margin-w=10&margin-h=10" />
 </p>
 
 ## :e-mail: Contact me
