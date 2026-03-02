@@ -1,10 +1,10 @@
 <h1 align="center">HI, I´m Bruno Virinni <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> :rocket:</h1>
 <p align="center">
-  <a href="https://github.com/Brun02K20/"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Full-Stack+Developer;University+Systems+Analyst+and+Developer;Currently+studying:+Systems+Engineering;+3+years+of+exp.;SkarIT+Co-Founder"></a>
+  <a href="https://github.com/Brun02K20/"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Full-Stack+Developer;University+Systems+Analyst+and+Developer;Currently+studying:+Systems+Engineering;+4+years+of+exp."></a>
 </p>
 
 
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> About me
+## :man: About me
 - I’m 22 years old, from Córdoba, Argentina.
 - Passionate about web development.
 - Currently in my 5th year of Systems Engineering at UTN - FRC.
@@ -28,7 +28,7 @@
 </p>
 
 
-## <picture><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"></picture> Skills
+## :computer: Skills
 ### :star: Frontend
 <div style={{display: "flex}}>
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" width="100" height="30">
@@ -102,7 +102,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=brun02k20&theme=tokyonight&margin-w=10&margin-h=10" />
 </p>
 
-## <picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="50"></picture> Contact me
+## :e-mail: Contact me
 <a href="https://www.linkedin.com/in/bruno-laszlo-virinni/" target="_blank">
 <img src="https://img.shields.io/badge/linkedin:  Virinni Bruno-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
